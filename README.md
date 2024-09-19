@@ -7,10 +7,10 @@
 * ^ (caret sign)
 * & (and sign)
 * \* (asterisk)
-## Links
+# Links
 * [My GBLearn](https://my.gblearn.com/)
 * [W3 Schools](https://w3chools.com/)
-## Emojies
+# Emojies
 * 😒
 * 😞
   
