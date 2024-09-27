@@ -13,5 +13,14 @@
 # Emojies
 * 😒
 * 😞
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-A (select all)
+
+Shortcuts I would like to start using: 
+- Ctrl- R (refresh the current window)
+- Win-L (lock the computer)
   
   
