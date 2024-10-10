@@ -13,6 +13,17 @@
 # Emojies
 * 😒
 * 😞
+<<<<<<< HEAD
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Y (redo)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Win-D (show desktop)  
+=======
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
@@ -22,5 +33,5 @@ Shortcuts I frequently use:
 Shortcuts I would like to start using: 
 - Ctrl- R (refresh the current window)
 - Win-L (lock the computer)
-  
+>>>>>>> 409036ed0ce4ba3690daa69ae1efdb289632af6e
   
