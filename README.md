@@ -23,5 +23,5 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 
-[CLI commands](Docs/Cli.md)
+[CLI commands](docs/Cli.md)
   
